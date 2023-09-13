@@ -1,4 +1,2 @@
 #!/bin/bash
-apt install -y wireguard
-
-
+apt install -y wireguard openresolv curl bash-completion

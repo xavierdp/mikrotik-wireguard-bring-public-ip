@@ -30,6 +30,11 @@ echo "
 PrivateKey = $privatekey
 Address = $LOC_INT_IP/32
 DNS = 1.1.1.1,1.0.0.1
+
+# DISABLE THIS
+Table = off
+
+
 # pubkey = $pubkey
 
 [Peer]
